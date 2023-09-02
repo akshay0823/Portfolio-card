@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-card/static/css/main.49bfcf21.css",
+    "main.js": "/Portfolio-card/static/js/main.da14a7c8.js",
+    "static/js/787.fffd9c18.chunk.js": "/Portfolio-card/static/js/787.fffd9c18.chunk.js",
+    "static/media/clement-helardot-95YRwf6CNw8-unsplash.jpg": "/Portfolio-card/static/media/clement-helardot-95YRwf6CNw8-unsplash.e541e93f9c1c6bfe7b18.jpg",
+    "static/media/rahul-chakraborty-xsGxhtAsfSA-unsplash.jpg": "/Portfolio-card/static/media/rahul-chakraborty-xsGxhtAsfSA-unsplash.949978e2aafc3c9cf6f2.jpg",
+    "static/media/florian-olivo-4hbJ-eymZ1o-unsplash.jpg": "/Portfolio-card/static/media/florian-olivo-4hbJ-eymZ1o-unsplash.b7377fe2c7b1dff4df44.jpg",
+    "static/media/clint-patterson-dYEuFB8KQJk-unsplash.jpg": "/Portfolio-card/static/media/clint-patterson-dYEuFB8KQJk-unsplash.4dad8e9f13515ff08d11.jpg",
+    "static/media/view-3d-boy-using-laptop.jpg": "/Portfolio-card/static/media/view-3d-boy-using-laptop.bb0cce4ea0b0868b06e1.jpg",
+    "index.html": "/Portfolio-card/index.html",
+    "main.49bfcf21.css.map": "/Portfolio-card/static/css/main.49bfcf21.css.map",
+    "main.da14a7c8.js.map": "/Portfolio-card/static/js/main.da14a7c8.js.map",
+    "787.fffd9c18.chunk.js.map": "/Portfolio-card/static/js/787.fffd9c18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49bfcf21.css",
+    "static/js/main.da14a7c8.js"
+  ]
+}
